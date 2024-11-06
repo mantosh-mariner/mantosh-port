@@ -11,8 +11,8 @@
 }
 
 .footer__title,
-.footer__like{
-    color: var(--title-color);
+.footer__link{
+    color: var(--title-color) !important;
 
 }
 
