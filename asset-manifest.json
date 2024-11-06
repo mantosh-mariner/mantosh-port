@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mantosh-port/static/css/main.4a9e879f.css",
+    "main.js": "/mantosh-port/static/js/main.f622f389.js",
+    "static/media/hotel.png": "/mantosh-port/static/media/hotel.71586e45c2852b4e3e9b.png",
+    "static/media/employee.png": "/mantosh-port/static/media/employee.9383df6b41fe94d17f90.png",
+    "static/media/pros.png": "/mantosh-port/static/media/pros.43101ed7340054edf354.png",
+    "static/media/mantosh.pdf": "/mantosh-port/static/media/mantosh.a0cd1385b39926741921.pdf",
+    "static/media/hospital.png": "/mantosh-port/static/media/hospital.baddaae2385577486965.png",
+    "static/media/profile.jpg": "/mantosh-port/static/media/profile.e77738c8a23c9d13a971.jpg",
+    "static/media/coming.jpg": "/mantosh-port/static/media/coming.e346ff211513968900ca.jpg",
+    "static/media/gfg.png": "/mantosh-port/static/media/gfg.c13df084b7d802f4cbb2.png",
+    "static/media/github.png": "/mantosh-port/static/media/github.ed1c06d925fff0b57e32.png",
+    "index.html": "/mantosh-port/index.html",
+    "main.4a9e879f.css.map": "/mantosh-port/static/css/main.4a9e879f.css.map",
+    "main.f622f389.js.map": "/mantosh-port/static/js/main.f622f389.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a9e879f.css",
+    "static/js/main.f622f389.js"
+  ]
+}
